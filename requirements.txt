@@ -1,0 +1,5 @@
+dateutil
+requests
+bs4
+yahoo_fin
+pip install requests_html
